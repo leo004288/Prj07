@@ -14,7 +14,7 @@ public class TestString {
 		System.out.println(name3 == name4);
 		System.out.println(name3.equals(name4));
 		
-
+		
 	} //
 
 } //
